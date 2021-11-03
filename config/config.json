@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
+    "username": "apple",
     "password": null,
-    "database": "database_development",
+    "database": "enyata",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "test": {
-    "username": "root",
+    "username": "apple",
     "password": null,
-    "database": "database_test",
+    "database": "enyata",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "production": {
-    "username": "root",
+    "username": "apple",
     "password": null,
-    "database": "database_production",
+    "database": "enyata",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   }
 }
