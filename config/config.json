@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "apple",
-    "password": null,
-    "database": "enyata",
-    "host": "127.0.0.1",
+    "username": "ismfjqzhvtrrbh",
+    "password": "446704e6a7d226cef8f505885a2850f2a0409e8bd65d22978c6df67d38d9314e",
+    "database": "dlc1cda8org7h",
+    "host": "ec2-34-202-66-20.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "apple",
-    "password": null,
-    "database": "enyata",
-    "host": "127.0.0.1",
+    "username": "ismfjqzhvtrrbh",
+    "password": "446704e6a7d226cef8f505885a2850f2a0409e8bd65d22978c6df67d38d9314e",
+    "database": "dlc1cda8org7h",
+    "host": "ec2-34-202-66-20.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "apple",
-    "password": null,
-    "database": "enyata",
-    "host": "127.0.0.1",
+    "username": "ismfjqzhvtrrbh",
+    "password": "446704e6a7d226cef8f505885a2850f2a0409e8bd65d22978c6df67d38d9314e",
+    "database": "dlc1cda8org7h",
+    "host": "ec2-34-202-66-20.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
