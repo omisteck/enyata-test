@@ -17,7 +17,7 @@ let sequelize;
 //   console.log('tes2');
 // }
 
-const sequelize = new Sequelize({
+sequelize = new Sequelize({
   database: process.env.POSTGRES_DB,
   username: process.env.POSTGRES_USER,
   password: process.env.POSTGRES_PASSWORD,
