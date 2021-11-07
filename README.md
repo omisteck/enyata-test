@@ -11,4 +11,7 @@ please check the documentation of the project for more info
 
 https://documenter.getpostman.com/view/13660696/UVC2HpMZ
 
+The api is also hosted on heroku 
+https://enyataapi.herokuapp.com/
+
 Thanks
